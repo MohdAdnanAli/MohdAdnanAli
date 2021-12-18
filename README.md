@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack web development.
 - 🌱 I’m currently learning Java(including applets)
 - 💞️ I’m looking to collaborate on Designing (Ui/Ux).
-- 📫 How to reach me https://t.me/Butcher_of_rivia .
+- 📫 How to reach me https://t.me/The_Geralt_of_Rivia
     adnanali.aa863@gmail.com
 
 <!---
